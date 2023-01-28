@@ -1,2 +1,2 @@
 # staphyprot
-Targeting Staphylococcus aureus Proteins for Potential Vaccine Candidates
+Targeting <i>Staphylococcus aureus</i> Proteins for Potential Vaccine Candidates
