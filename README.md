@@ -1,2 +1,2 @@
-# staphyprot
-Targeting Staphylococcus aureus Proteins for Potential Vaccine Candidates
+# PubMedGo
+Enhanced Research Article Recommendations on the Go
