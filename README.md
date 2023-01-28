@@ -1,2 +1,2 @@
-# PubMedGo
-Enhanced Research Article Recommendations on the Go
+# Staphyprot
+Targeting Staphylococcus aureus Proteins for Potential Vaccine Candidates
