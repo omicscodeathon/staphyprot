@@ -1,2 +1,2 @@
 # staphyprot
-Targeting <i>Staphylococcus aureus</i> Proteins for Potential Vaccine Candidates
+## Designing a Novel Multi-epitope Vaccine Against Beta-GlcNAC WTA Surface antigen in Staphylococcus aureus
