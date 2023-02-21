@@ -6,9 +6,14 @@ In this study protein sequences of the beta-N-acetylglucosaminyltransferase TarS
 
 2. Epitope Prediction 
 To determine the immunogenicity of the proteins before any intial analysis
+
 i)MHC class I
+
 The (Immune Epitope Database and Analysis Resource ) IEDB will be used for the intial determination of intial epitopes. MHC I will fisrt be determined using the NetMHCpan model an Artificial neural network trained on on a set of quantitative peptide-MHC class I binding metrics, the link is as follows [http://tools.iedb.org/mhci/]. The input will be the downloaded protein FASTA sequences, the predictions will be made based on the HLA allele selected. The output file is selected and the files are submitted for prediction.
 _For epitopes expected to bind exceptionally well to a given HLA allele, the value shown in the “score” column will be closer to 1. The score is inversely related to the percentile rank, which will have a lower value for epitopes expected to bind more effectively to MHC class I_
-** For the HLA class I binding affinty is directly affilited to immunogencity.
+**For the HLA class I binding affinty is directly affilited to immunogencity**
+_NB: Results are produced in a table format_
 
 ii) MHC class II
+
+The IEDB will still be used to determine the potential epitopes. Their will be specifications on the length that will be used for prediction. The input will be analyzed based on the length of the sequence. A default length of 15 is suitable for analysis. [http://tools.iedb.org/mhcii/] Link access for the IEDB MHC II prediction.
