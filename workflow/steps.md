@@ -1,5 +1,6 @@
 Steps: [Convert the steps into workflow diagram (include tools for each step) and update README.md]
-Below is a list of steps we intend to take to meet our set objectives
+
+## Below is a list of steps we intend to take to meet our set objectives
 
 1. Sequence selection 
 In this study protein sequences of the beta-N-acetylglucosaminyltransferase TarS were obtained from the NCBI. The protein sequence downloaded were only those that were expressed in Staphylococcus aureus. 250 FASTA format of the sequneces were randomly selected from NCBI and downloaded
