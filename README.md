@@ -1,20 +1,5 @@
 # staphyprot
-## Designing a Novel Multi-epitope Vaccine Against Enterotoxin B Superantigen antigen in Staphylococcus aureus
+## Designing a Novel Multi-epitope Vaccine Against Enterotoxin B in Staphylococcus aureus (SEB)
 
-The wall teichoic acids (WTA) are a major constituent of the staphylococcus aureus cell wall envelope.
-WTA plays important roles in :
+SEB, produced by the gram-positive bacterium S.aureus, is responsible for food poisoning and toxic shock syndrome and it is one of the most common exotoxins [https://doi.org/10.1016/j.toxicon.2017.03.012]. SEB attaches directly to major histocompatibility class II (MHC II) molecules on the surface of the antigen-presenting cell, in contrast to typical antigens that are broken down into tiny peptides. Then, the SEB-MHC II complex forms a trimolecular complex with the Vb chain of a T cell receptor (TCR). Interferon-g (IFN-gamma), interleukin-2, and TNF-alpha are among the many cytokines that T cells release as a result of the cross-linking of SEB, MHC ll, and TCR, which can result in toxic shock syndrome [https://doi.org/10.3390/toxins2082177]. SEB is regarded as a superantigen since it can excite up to 30% of lymphocytes and bind to MHC II without being processed first [https://doi.org/10.1016/j.toxicon.2017.03.012].
 
-                                 - bacteria physiology
-
-                                 - resistance to antimicrobial molecules
-                                 
-                                 - host interaction
-                                 
-                                 - virulence and biofilm formation
-
-They consist of ribitol phosphate repeat units in which ribitol residues is substituted with D-alanine and N-acetyl-D-glucosamine (GLCNAc)
-Some data has indicated that S.aureus glycosylation is strongly influenced by environmental conditions and suggest that Beta-GLCNAc has a competitive advantage invivo. [https://doi.org/10.1038%2Fs41598-019-39929-1].
-
-The N-acetylglucosaminly-ribitol linkage of WTA is an immunological determinant in host immune response.The specificty of elicited antibodies is dependant on the alpha or beta-GLCNAc anomers.
-In this study we intend to investigate the possibility of targeting the enzyme involved in the glycosylation of the WTA as a potential vaccine candidate. This enzyme beta-N-acetylglucosaminyltransferase is coded for the by tarS gene. 
-We intend to determine if the enzyme can be utilized as a multi-epitope vaccine.
