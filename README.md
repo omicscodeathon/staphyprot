@@ -1,5 +1,5 @@
 # staphyprot
-## Designing a Novel Multi-epitope Vaccine Against Enterotoxin B in Staphylococcus aureus (SEB)
+## Designing a Novel Multi-epitope Vaccine Targeting  Enterotoxin B in Staphylococcus aureus (SEB)
 
 SEB, produced by the gram-positive bacterium S.aureus, is responsible for food poisoning and toxic shock syndrome and it is one of the most common exotoxins [https://doi.org/10.1016/j.toxicon.2017.03.012]. SEB attaches directly to major histocompatibility class II (MHC II) molecules on the surface of the antigen-presenting cell, in contrast to typical antigens that are broken down into tiny peptides. Then, the SEB-MHC II complex forms a trimolecular complex with the Vb chain of a T cell receptor (TCR). Interferon-g (IFN-gamma), interleukin-2, and TNF-alpha are among the many cytokines that T cells release as a result of the cross-linking of SEB, MHC ll, and TCR, which can result in toxic shock syndrome [https://doi.org/10.3390/toxins2082177]. SEB is regarded as a superantigen since it can excite up to 30% of lymphocytes and bind to MHC II without being processed first [https://doi.org/10.1016/j.toxicon.2017.03.012].
 
