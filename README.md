@@ -1,5 +1,5 @@
 # staphyprot
-## Designing a Novel Multi-epitope Vaccine Against Beta-GlcNAC WTA Surface antigen in Staphylococcus aureus
+## Designing a Novel Multi-epitope Vaccine Against Enterotoxin B Superantigen antigen in Staphylococcus aureus
 
 The wall teichoic acids (WTA) are a major constituent of the staphylococcus aureus cell wall envelope.
 WTA plays important roles in :
