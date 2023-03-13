@@ -2,19 +2,13 @@ Steps: [Convert the steps into workflow diagram (include tools for each step) an
 
 ## Below is a list of steps we intend to take to meet our set objectives
 
-1. Sequence selection 
-In this study protein sequences of the beta-N-acetylglucosaminyltransferase TarS were obtained from the NCBI. The protein sequence downloaded were only those that were expressed in Staphylococcus aureus. 250 FASTA format of the sequneces were randomly selected from NCBI and downloaded
+B-CELLS EPITOPE PREDICTION
+The B-cells epitopes in this study were predicted using the BepiPred server v2.0       (BepiPred 2.0 - DTU Health Tech - Bioinformatic Services ). Only epitopes that had a threshold of 0.5 were and had a length of 10 aa were considered for downstream analysis.
 
-2. Epitope Prediction 
-To determine the immunogenicity of the proteins before any intial analysis
+HLA I &  II ALLELES
+The HLA I & II alleles used in the T cell epitope prediction were those that have been identified by the IEDB to occur more frequently in the global population  (https://help.iedb.org/hc/en-us/ ) accessed on 12  March 2023. 
 
-i)MHC class I
 
-The (Immune Epitope Database and Analysis Resource ) IEDB will be used for the intial determination of intial epitopes. MHC I will fisrt be determined using the NetMHCpan model an Artificial neural network trained on on a set of quantitative peptide-MHC class I binding metrics, the link is as follows [http://tools.iedb.org/mhci/]. The input will be the downloaded protein FASTA sequences, the predictions will be made based on the HLA allele selected. The output file is selected and the files are submitted for prediction.
-_For epitopes expected to bind exceptionally well to a given HLA allele, the value shown in the “score” column will be closer to 1. The score is inversely related to the percentile rank, which will have a lower value for epitopes expected to bind more effectively to MHC class I_
-**For the HLA class I binding affinty is directly affilited to immunogencity**
-_NB: Results are produced in a table format_
 
-ii) MHC class II
-
-The IEDB will still be used to determine the potential epitopes. Their will be specifications on the length that will be used for prediction. The input will be analyzed based on the length of the sequence. A default length of 15 is suitable for analysis. [http://tools.iedb.org/mhcii/] Link access for the IEDB MHC II prediction.
+CTL AND HTL EPITOPE PREDICTION
+In this study the CTL epitopes were predicted using the NetCTLpan v1.1 (https://services.healthtech.dtu.dk/service.php?NetCTLpan-1.1 ) 
