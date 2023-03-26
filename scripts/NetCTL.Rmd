@@ -6,6 +6,8 @@ output:
   pdf_document: default
   html_document: default
 ---
+These are the codes used to extract CTL epitopes whose threshold (x.Rank column ) for epitope identification was <=1
+
 ```{r}
 rm(list= ls())
 
