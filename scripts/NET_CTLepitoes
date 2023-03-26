@@ -1,4 +1,4 @@
-### Here is the codes used to extract epitopes from the NetCTLpan prediction results on potential epitopes
+###Here is the codes used to extract epitopes from the NetCTLpan prediction results on potential epitopes
 
 The extraction of potential epitopes was based on the threshold prediction(X.Rank) column, Values that were <=1 were extracted as potential epitopes for each allele utilized 
  
