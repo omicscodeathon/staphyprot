@@ -43,10 +43,10 @@ finalB_cell_fourth<-B_cell_fourth %>% drop_na()
 
 ```{r}
 ###Saving R objects of the epitope tables
-saveRDS(finalB_cell_first, "C:/Users/HP/OneDrive/Desktop/rstudio/multiepitope_vaccine/B_cell1")
-saveRDS(finalB_cell_second, "C:/Users/HP/OneDrive/Desktop/rstudio/multiepitope_vaccine/B_cell2")
-saveRDS(finalB_cell_third, "C:/Users/HP/OneDrive/Desktop/rstudio/multiepitope_vaccine/B_cell3")
-saveRDS(finalB_cell_fourth, "C:/Users/HP/OneDrive/Desktop/rstudio/multiepitope_vaccine/B_cell4")
+saveRDS(finalB_cell_first, "C:/Users/HP/OneDrive/Desktop/rstudio/multiepitope_vaccine/B_cell1.RDS")
+saveRDS(finalB_cell_second, "C:/Users/HP/OneDrive/Desktop/rstudio/multiepitope_vaccine/B_cell2.RDS")
+saveRDS(finalB_cell_third, "C:/Users/HP/OneDrive/Desktop/rstudio/multiepitope_vaccine/B_cell3.RDS")
+saveRDS(finalB_cell_fourth, "C:/Users/HP/OneDrive/Desktop/rstudio/multiepitope_vaccine/B_cell4.RDS")
 ```
 
 ```{r}
