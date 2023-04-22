@@ -1,6 +1,6 @@
 Steps: [Convert the steps into workflow diagram (include tools for each step) and update README.md]
 
-## Below is a list of steps used to construct the vaccine
+## Below is a list of steps used to achieve the objectives
 
 1. Retrieval of sequences
 Each of the 200 amino acid sequences of length 266 amino acids for Staphylococcal SEB were retrieved from the National Center for Biotechnology Information (NCBI) (NCBI, 2019) database with their respective accession numbers and saved in FASTA format.
