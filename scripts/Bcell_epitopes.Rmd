@@ -21,7 +21,7 @@ library('tidyr')
 ####Loading files to R
 B_cell_first<-read.table("C:/Users/HP/Downloads/B-epitope-SEB1-50.tsv", header = TRUE,sep = "\t")
 B_cell_second<-read.table("C:/Users/HP/Downloads/B-epitope-SEB50-100.tsv", header = TRUE,sep = "\t")
-B_cell_thrid<-read.table("C:/Users/HP/Downloads/B-epitope-SEB100-150.tsv", header = TRUE,sep = "\t")
+B_cell_third<-read.table("C:/Users/HP/Downloads/B-epitope-SEB100-150.tsv", header = TRUE,sep = "\t")
 B_cell_fourth<-read.table("C:/Users/HP/Downloads/B-epitope-SEB150-200.tsv", header = TRUE,sep = "\t")
 ```
 
@@ -39,8 +39,6 @@ B_cell_first<-B_cell_first[,-c(5,9)]
 B_cell_second<-B_cell_second[,-c(5,9)]
 B_cell_thrid<-B_cell_thrid[,-c(5,9)]
 B_cell_fourth<-B_cell_fourth[,-c(5,9)]
-
-
 ```
 
 ```{r}
@@ -51,8 +49,8 @@ finalB_cell_first<-B_cell_first %>% drop_na()
 B_cell_second$Prediction[B_cell_second$Round_off ==0.5] <-"Epitope" 
 finalB_cell_second<-B_cell_second %>% drop_na()
 
-B_cell_thrid$Prediction[B_cell_thrid$Round_off ==0.5] <-"Epitope" 
-finalB_cell_third<-B_cell_thrid %>% drop_na()
+B_cell_third$Prediction[B_cell_third$Round_off ==0.5] <-"Epitope" 
+finalB_cell_third<-B_cell_third %>% drop_na()
 
 B_cell_fourth$Prediction[B_cell_fourth$Round_off ==0.5] <-"Epitope" 
 finalB_cell_fourth<-B_cell_fourth %>% drop_na()
