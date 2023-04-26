@@ -36,6 +36,6 @@ The affinity and interaction of the molecules were investigated using molecular 
 11. Immune cell Simulation 
 C-ImmSim immune simulation server(https://kraken.iac.rm.cnr.it/C-IMMSIM) was used in the study to recognize the relationship of the vaccine construct as an antigen that stimulates immune responses in a human host. One vaccine injection of volume 20 microliters  with the following alleles:for A MHC I (HLA-A0101,HLA-A0202); B MHC I (HLA-B0702, HLA-B5801) and DR MHC II (DRB1_0101, DRB1_1501). The remaining parameters used during simulation were the default settings of the server.
 
-12 . Population Coverage Analysis
+12.  Population Coverage Analysis
 When a certain epitope is expressed only in people who have a specific MHC molecule that can bind to it, the phenomenon known as MHC restriction of T cell responses occurs.In this study, to address the polymorphic nature of MHC molecules a population coverage analysis was performed to determine the frequency of HLA alleles that occur in a given population.  IEDB population coverage analysis (Population Coverage, n.d.) was used to perform this analysis. The areas selected for analysis were East Asia, Europe, East Afriac and North America.
 
