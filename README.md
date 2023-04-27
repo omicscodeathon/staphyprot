@@ -7,7 +7,6 @@ The emergence of antimicrobial resistance (AMR) among Staphylococcus aureus (S.a
 ![image](workflow/workflow_diagram.jpeg)
 
 ## Team
-Team Member1 - Affiliation
-Team Member2 - Affiliation
-Team Member3 - Affiliation
-Team Member4 - Affiliation
+Vanessa Natasha Onyonyi (VNO)- International Centre for Insect Physiology and Ecology (ICIPE), Nairobi, ‎Kenya
+Jimmy Kipetuan Nkaiwuatei (JKN)- Department of Biochemistry, College of Health sciences, Jomo Kenyatta University of Agriculture and Technology (JKUAT), Nairobi, Kenya.
+Sisay Teka Degechisa (STD)- Department of Medical Biochemistry, College of Health sciences, Addis Ababa University, Addis Ababa,  Ethiopia
