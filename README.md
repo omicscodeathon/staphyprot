@@ -13,7 +13,6 @@ The emergence of antimicrobial resistance (AMR) among Staphylococcus aureus (S.a
 <<<<<<< HEAD
 4. Olaitan I. Awe (OIA) - African Society for Bioinformatics and Computational Biology (ASBCB), Cape Town, South Africa
 
-
 ### References
 1. Hajighahramani, N., Nezafat, N., Eslami, M., Negahdaripour, M., Rahmatabadi, S. S., & Ghasemi, Y. (2017). Immunoinformatics analysis and in silico designing of a novel multi-epitope peptide vaccine against Staphylococcus aureus. Infection, Genetics and Evolution, 48, 83–94. https://doi.org/10.1016/j.meegid.2016.12.010.
 
