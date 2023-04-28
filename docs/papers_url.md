@@ -1,0 +1,11 @@
+Here are the links for some papers being used for this project:
+1. [https://doi.org/10.3390/toxins12030176]
+2. [https://doi.org/10.1177/153567600601100303]
+3. [https://doi.org/10.1080/07391102.2020.1850357]
+4. [https://www.rcsb.org/structure/1ZIW]
+5. [https://webs.iiitd.edu.in/raghava/bcepred/bcepred_submission.html]
+6. [https://services.healthtech.dtu.dk/services/BepiPred-2.0]
+7. [https://www.ncbi.nlm.nih.gov/books/NBK559279/]
+8. [https://www.ddg-pharmfac.net/AllerTOP/index.ht]
+9. [https://doi.org/10.3390/vaccines9091038]
+10. [https://www.chemicalsafetyfacts.org/chemicals/formaldehyde/]
