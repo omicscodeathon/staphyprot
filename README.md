@@ -19,4 +19,3 @@ The emergence of antimicrobial resistance (AMR) among Staphylococcus aureus (S.a
 2. Verma, S., Sajid, A., Singh, Y., & Shukla, P. (2019). Computational tools for modern vaccine development. Human Vaccines & Immunotherapeutics. https://doi.org/10.1080/21645515.2019.1670035.
 
 3. Delfani, S., Imani Fooladi, A. A., Mobarez, A. M., Emaneini, M., Amani, J., & Sedighian, H. (2015). In silicoanalysis for identifying potential vaccine candidates againstStaphylococcus aureus. Clinical and Experimental Vaccine Research, 4(1), 99. https://doi.org/10.7774/cevr.2015.4.1.99.
->>>>>>> 64e3aea4603b6cf04560e1ee2ded3bad7a201f14
